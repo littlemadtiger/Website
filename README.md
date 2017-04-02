@@ -55,6 +55,14 @@
             width: 1200px;
         }
         
+        .silex-id-1491151882081-1 {
+            min-height: 592px;
+            width: 1202px;
+            background-color: rgb(255, 255, 255);
+            top: 0px;
+            left: 0px;
+        }
+        
         .silex-id-1478366450713-3 {
             top: 100px;
             left: NaNpx;
@@ -76,7 +84,7 @@
     </style>
     <title></title>
     <script type="text/javascript" class="silex-json-styles">
-        [{"desktop":{"body-initial":{"background-color":"rgba(255,255,255,1)"},"silex-id-1474394621033-3":{"top":"5px","left":"0px"},"silex-id-1474394621032-2":{"min-height":"600px","background-color":"transparent","width":"1200px"},"silex-id-1474394605264-1":{"min-height":"100px","width":"100px","top":"100px","left":"100px"},"silex-id-1474394605263-0":{"min-height":"100px","background-color":"transparent"},"silex-id-1442914737143-3":{"min-height":"53px","width":"349px","top":"29px","left":"430px"},"silex-id-1478366444112-0":{"min-height":"100px","background-color":"transparent","width":"1200px"},"silex-id-1478366444112-1":{"top":"0px","left":"0px","background-color":"transparent"},"silex-id-1478366450713-2":{"min-height":"100px","background-color":"transparent","width":"1200px"},"silex-id-1478366450713-3":{"top":"100px","left":"NaNpx","background-color":"transparent"}},"mobile":{},"componentData":{}}]
+        [{"desktop":{"body-initial":{"background-color":"rgba(255,255,255,1)"},"silex-id-1474394621033-3":{"top":"5px","left":"0px"},"silex-id-1474394621032-2":{"min-height":"600px","background-color":"transparent","width":"1200px"},"silex-id-1474394605264-1":{"min-height":"100px","width":"100px","top":"100px","left":"100px"},"silex-id-1474394605263-0":{"min-height":"100px","background-color":"transparent"},"silex-id-1442914737143-3":{"min-height":"53px","width":"349px","top":"29px","left":"430px"},"silex-id-1478366444112-0":{"min-height":"100px","background-color":"transparent","width":"1200px"},"silex-id-1478366444112-1":{"top":"0px","left":"0px","background-color":"transparent"},"silex-id-1478366450713-2":{"min-height":"100px","background-color":"transparent","width":"1200px"},"silex-id-1478366450713-3":{"top":"100px","left":"NaNpx","background-color":"transparent"},"silex-id-1491151882081-1":{"min-height":"592px","width":"1202px","background-color":"rgb(255, 255, 255)","top":"0px","left":"0px"}},"mobile":{},"componentData":{}}]
     </script>
 
 
@@ -186,7 +194,35 @@
         <div data-silex-type="container" class="editable-style silex-element-content silex-id-1478366444112-0 silex-container-content container-element prevent-draggable website-width" data-silex-id="silex-id-1478366444112-0"></div>
     </div>
     <div data-silex-type="container" class="prevent-draggable container-element editable-style silex-id-1474394621033-3 section-element website-min-width" data-silex-id="silex-id-1474394621033-3" style="">
-        <div data-silex-type="container" class="editable-style silex-element-content silex-id-1474394621032-2 silex-container-content container-element prevent-draggable website-width" data-silex-id="silex-id-1474394621032-2"></div>
+        <div data-silex-type="container" class="editable-style silex-element-content silex-id-1474394621032-2 silex-container-content container-element prevent-draggable website-width" data-silex-id="silex-id-1474394621032-2">
+            <div data-silex-type="html" class="editable-style silex-id-1491151882081-1 html-element" data-silex-id="silex-id-1491151882081-1">
+                <div class="silex-element-content">
+
+
+
+                    <title>Littlemadtiger</title>
+                    <style>
+                            <body {
+                            <div id="wrapper"><div id="im"></div></div><img src="https://cdn.shopify.com/s/files/1/0982/0710/products/fractaltiger_art_preview_94266d34-2978-4e72-9472-da9ab9093d89.jpeg?v=1484946280" alt="Tiger" style="width:794px;height:794px;">.center {
+                                text-align: center;
+                                border: 3px solid;
+                            }
+                    </style>
+
+
+
+                    <h2>Center Text</h2>
+
+                    <div class="center">
+                        <p>Littlemadtiger</p>
+                    </div>
+
+
+
+
+                </div>
+            </div>
+        </div>
     </div>
     <div data-silex-type="container" class="prevent-draggable container-element editable-style silex-id-1478366450713-3 section-element website-min-width" data-silex-id="silex-id-1478366450713-3" style="">
         <div data-silex-type="container" class="editable-style silex-element-content silex-id-1478366450713-2 silex-container-content container-element prevent-draggable website-width" data-silex-id="silex-id-1478366450713-2">
